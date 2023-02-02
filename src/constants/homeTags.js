@@ -1,0 +1,18 @@
+export const HOME_TAGS = [
+  "react",
+  "javascript",
+  "css",
+  "html",
+  "styled-components",
+  "node",
+  "express",
+  "mongodb",
+  "mongoose",
+  "redux",
+  "react-redux",
+  "redux-thunk",
+  "redux-saga",
+  "redux-observable",
+  "redux-logger",
+  "cabezón",
+];
